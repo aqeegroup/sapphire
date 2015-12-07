@@ -1,0 +1,13 @@
+{
+  "name": "lornewang/sapphire",
+  "description": "The PHP Development kit",
+  "keywords": ["sapphire", "framework", "library", "utilities", "toolkit", "components"],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-0": {"Sapphire": "src/"}
+  }
+}
